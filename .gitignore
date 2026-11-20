@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.local-data/
+*.private.*
+*.npy
+*.npz
+*.parquet
+*.tar
+*.tar.gz
+*.zip
+.env
