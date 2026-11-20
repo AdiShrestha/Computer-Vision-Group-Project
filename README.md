@@ -2,7 +2,7 @@
 
 Research code for an exploratory study of online conformal prediction sets for semantic segmentation. The study used controlled fog and rain render shifts in Virtual KITTI 2 and a separate fixed-threshold transfer check on a sample of A2D2 images. The two experiments measure different questions.
 
-This repository contains the scoring and controller primitives, a synthetic replay example, and the Virtual KITTI 2 archive metadata census. It is a code snapshot. The full experiment artifacts and manuscript are maintained separately.
+This repository contains the experiment source, protocols, and descriptive results. Start with the [reproduction guide](docs/reproduce.md) and [aggregate results](results/descriptive_results.json).
 
 ## Run the synthetic replay
 
